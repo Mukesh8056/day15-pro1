@@ -1,0 +1,20 @@
+
+ .row{
+    height:auto;
+    width: auto;
+     margin-top: 20px;
+     margin-left: 20px;
+     margin-right: 20px;
+     margin-bottom: 20px;
+  
+}
+.row1{
+
+width: auto;
+}
+.row2{
+width: auto;
+}
+.row3{
+    color: red;
+}
